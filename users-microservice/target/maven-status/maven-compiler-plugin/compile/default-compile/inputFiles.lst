@@ -1,0 +1,13 @@
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/security/AuthenticationFilter.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/model/UserRequestModel.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/DAO/UserRepository.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/model/LoginRequestModel.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/model/UserResponseModel.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/service/UserService.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/shared/PasswordEncoder.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/shared/UserDTO.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/service/UserServiceImp.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/security/WebSecurity.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/controler/UserControler.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/DAO/UserEntity.java
+/Users/red/Desktop/Spring tuto/users-microservice/src/main/java/com/example/demo/UsersMicroServiceApplication.java
